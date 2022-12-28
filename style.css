@@ -1,0 +1,24 @@
+.container{
+    color: red;
+}
+.pg{
+    color: brown;
+}
+.at{
+    background-color: yellow;
+    font-weight: bold;
+}
+#a{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+#b{
+    font-style: italic;
+    text-decoration: underline;
+}
+#c{
+    font-style: italic;
+    text-decoration: none;
+}
+
